@@ -1,0 +1,15 @@
+{
+    "name": "3bod/mvc",
+    "autoload": {
+       "classmap": [
+           "./"
+       ]
+    },
+    "authors": [
+        {
+            "name": "abdelra7man",
+            "email": "abdelra7manabdullah@gmail.com"
+        }
+    ],
+    "require": {}
+}
